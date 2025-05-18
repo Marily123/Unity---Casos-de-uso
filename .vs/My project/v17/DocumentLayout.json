@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\marily botina\\desktop\\unity_proyectos\\my proj\\my project\\assets\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\marily botina\\desktop\\unity_proyectos\\my proj\\my project\\assets\\assets\\scripts\\mi_objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\mi_objeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\marily botina\\desktop\\unity_proyectos\\my proj\\my project\\assets\\assets\\scripts\\test_clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\test_clase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\marily botina\\desktop\\unity_proyectos\\my proj\\my project\\assets\\assets\\scripts\\colectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\colectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +30,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:22:26.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test_clase.cs",
+              "DocumentMoniker": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\test_clase.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\test_clase.cs",
+              "ToolTip": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\test_clase.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\test_clase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:22:24.241Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,22 +66,35 @@
               "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\move.cs",
               "ToolTip": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\move.cs",
               "RelativeToolTip": "Assets\\Assets\\Scripts\\move.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAqwHIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:30:43.729Z",
+              "WhenOpened": "2025-05-18T03:22:21.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "mi_objeto.cs",
+              "DocumentMoniker": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\mi_objeto.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\mi_objeto.cs",
+              "ToolTip": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\mi_objeto.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\mi_objeto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T03:22:14.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "colectable.cs",
               "DocumentMoniker": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\colectable.cs",
               "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\colectable.cs",
               "ToolTip": "C:\\Users\\Marily Botina\\Desktop\\Unity_Proyectos\\My proj\\My project\\Assets\\Assets\\Scripts\\colectable.cs",
               "RelativeToolTip": "Assets\\Assets\\Scripts\\colectable.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T01:30:09.626Z",
+              "WhenOpened": "2025-05-18T03:19:28.372Z",
               "EditorCaption": ""
             }
           ]
